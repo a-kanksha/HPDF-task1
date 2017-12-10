@@ -16,6 +16,7 @@ Steps for installation:
 3. Save the finalapp.js and the 'public' folder into that directory
 4. Open the command prompt and navigate to the newly created directory
 5. In that directory, do the following:
+
 a. npm init
    Press enter to set the default values to create the package.json file
 b. npm install express --save
