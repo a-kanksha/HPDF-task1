@@ -19,10 +19,14 @@ Steps for installation:
 
 a. npm init
    Press enter to set the default values to create the package.json file
+
 b. npm install express --save
    This is done to install the express package.
+
 c. npm install cookie-parser --save
+
 d. npm install path --save
+
 e. npm install body-parser --save
         
 Steps for usage:
