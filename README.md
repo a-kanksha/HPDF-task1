@@ -12,8 +12,8 @@ The app has the following routes:
 
 Steps for installation:
 1. Install node.js https://nodejs.org/en/
-2. Create a directory for the app, say 'myapp'
-3. Save the finalapp.js and the 'public' folder into that directory
+2. Create a directory for the app, say 'myapp'. Create a sub directory called 'public' in the 'myapp' folder
+3. Save the finalapp.js in 'myapp' and the contents of the 'public' folder in the 'public' directory created
 4. Open the command prompt and navigate to the newly created directory
 5. In that directory, do the following:
 a. npm init
@@ -27,4 +27,4 @@ e. npm install body-parser --save
 Steps for usage:
 1. Open the command prompt, navigate to the app directory
 2. Execute the following command: node finalapp.js
-3. Open the routes specified(eg. http://localhost:3000/ ) in a browser (eg. Chrome)
+3. Open the routes specified (eg. http://localhost:3000/ ) in a browser (eg. Chrome)
