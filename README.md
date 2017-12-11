@@ -13,7 +13,7 @@ The app has the following routes:
 Steps for installation:
 1. Install node.js https://nodejs.org/en/
 2. Create a directory for the app, say 'myapp'. Create a sub directory called 'public' in the 'myapp' folder
-3. Save the finalapp.js in 'myapp' and the contents of the 'public' folder in the 'public' directory created
+3. Save the code of finalapp.js in a js file 'finalapp.js' in 'myapp' and the contents of the 'public' folder in the 'public' directory created
 4. Open the command prompt and navigate to the newly created directory
 5. In that directory, do the following:
 a. npm init
